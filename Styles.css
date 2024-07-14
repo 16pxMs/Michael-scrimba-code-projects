@@ -1,0 +1,72 @@
+body {
+    background-image: url("/Assets/Background image.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: none;
+}
+
+body {
+    Font-family: Roboto, san-serif;
+}
+
+#hero {
+    display:block;
+    margin: 128px 80px 180px 80px; 
+    width: 30%; 
+}
+
+.Text {
+    display:block;
+    margin-bottom: 40px;
+ 
+}
+
+
+h1 {
+    font-size: 40px;
+    color: rgb(46, 49, 0)
+
+}
+
+p {
+    color: rgb(16, 15, 15); 
+    font-size: 18px;
+    line-height: 150%;
+}
+
+
+.primary-btn {
+    Margin:  0px 8px 0px 0px;
+    background-color: aqua;
+    border-radius: 24px;
+    border: none;
+    padding: 16px 40px;
+    font-size: 16px;
+}
+
+.primary-btn:hover {
+    background-color: black;
+    color: #fff;
+}
+
+.secondary-btn {
+    Margin:  0px 0px 0px 8px;
+    background-color: #ffffff;
+    border-radius: 24px;
+    border: 2px solid aqua;
+    padding: 16px 40px;
+    font-size: 16px;
+}
+
+.secondary-btn:hover {
+    background-color: aqua;
+    color: #000;
+}
+
+#footer {
+    display: block;
+    background-color: antiquewhite;
+    margin: none;
+    padding: 50px 40px;
+
+}
